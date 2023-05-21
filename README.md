@@ -7,5 +7,5 @@ In collaboration with Breakout Group 4
 Referenced MDN Web Docs for guidance,
 
 
-Url of GitHub repository: git@github.com:Kregkoda/Challenge-1_Editing-my-first-webpage.git
+Url of GitHub repository: https://github.com/Kregkoda/Challenge-1_Editing-my-first-webpage
 
