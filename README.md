@@ -8,4 +8,4 @@ Referenced MDN Web Docs for guidance,
 
 
 Url of GitHub repository: https://github.com/Kregkoda/Challenge-1_Editing-my-first-webpage
-
+Url of Deployed webstie: https://kregkoda.github.io/Challenge-1_Editing-my-first-webpage/
